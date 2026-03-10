@@ -1,0 +1,17 @@
+body{
+    background-image: url("../images/nen1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{ font-family: Verdana, sans-serif; 
+    text-align: center; 
+    background: linear-gradient( to right, red, orange, yellow, green, blue, purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;}
+h2{ font-family: Verdana, sans-serif; 
+    color: #1b3a6b;}
+.center-page{
+    text-align: center;
+}
+
